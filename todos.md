@@ -17,6 +17,7 @@ Overleaf:
     - The different models created by gridsearch and their performance should be plotted in various ways, because that would be really nice to show in our write-up. (e.g.: how does the model's performance converge with different le arning rate, number of tree's, etc.)
     - When the hyperparameters are tuned to the best version, a final task is to test it on the `test` set, as this set is reserved to be used only at the very end.
     - Kuleshov's slides about evaluation can be helpful (https://github.com/kuleshov/cornell-cs5785-2025-applied-ml/blob/main/slides/lecture23-evaluation-tools.ipynb)
+    - Try out at least one different method other than XGBoost for comparison purposes.
 
 - Document overview:
     1. Select a nice Latex template on overleaf we can use (Andras)
