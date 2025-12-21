@@ -16,7 +16,7 @@ which the fare is lowest). Our work is distinct from most of the prior airline f
 - **Evaluation:** Mean Absolute Error (MAE).
 - **Results:** XGBoost outperforms Ridge Regression in predicting fare evolution. The best model achieved a test **MAE of 52 dollars**.
 
-![XGBoost Performance Evaluation](images/xgboost_performance.png)
+![XGBoost Performance Evaluation](images/xgboost_perf.png)
 
 - **Left plot:** Scatter plot comparing predicted vs actual values, colored by days to departure
 - **Right plot:** Mean Absolute Error (MAE) across different days to departure
